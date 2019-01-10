@@ -1,0 +1,50 @@
+{
+  "name": "Shopo",
+  "padlock": "OBDmoNnIWY5fqGdBtIN54g==!zaOyNCoPnnrEVeNjWFJJnUJr1P2y6kMoiI6A73os6huPo2oOO/VPZwihbgHRRJ6k",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "1fcbb1ab-1178-46fc-8c5d-f0e20b65610d",
+      "resourceGroup": "Shopo",
+      "serviceName": "Shopo",
+      "type": "abs",
+      "name": "Shopo",
+      "id": "1"
+    },
+    {
+      "connectionString": "Zlla8RTf/9VkKGh9P3S74A==!kzAjfXKD2bpS0Uf1V1/jPzMhGCuyh4rJvOXOzkMVGIQ0aEob02uMDfN68iO5G5WDKRHlB1Ux9SHvkKfDhuDT+OPL6+fL2unxo16x5qzMRjrHlz6AyUbotY7ADBm/ExZ7J7zPFBBFTxXHjyAsJ8/CmqAlLuKHOcHZIojURnPCOz/5PP17lJL9RwBO1BgzcAspeLLJOAKanF4/3DEaeyDg6Q==",
+      "tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47",
+      "subscriptionId": "1fcbb1ab-1178-46fc-8c5d-f0e20b65610d",
+      "resourceGroup": "Shopo",
+      "serviceName": "shopoa57a",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "952ad8a6-45e2-4a79-8516-35fbaee429d9",
+      "appPassword": "/geoSDsbEOYyS16QQ9BYvg==!zOQ7P3VloOd1UQc9QKNU4bynL8aWIj+KThJxn/XuPyA=",
+      "endpoint": "https://shopo.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "appId": "b74d2a09-2228-4288-a79d-77603fb2d67e",
+      "authoringKey": "HQlCD7vLG3yjY53WzUms5g==!EkLtlrjqmbJd5lYbVlq1WJ9rSqw14whmD3QPgNVuwtCNyTebQJV6XZ7QRZQTSdWh",
+      "version": "0.1",
+      "region": "westeurope",
+      "type": "luis",
+      "name": "BasicBotLuisApplication",
+      "id": "5"
+    }
+  ]
+}
