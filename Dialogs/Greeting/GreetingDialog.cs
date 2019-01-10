@@ -101,7 +101,7 @@ namespace Microsoft.BotBuilderSamples
                     Prompt = new Activity
                     {
                         Type = ActivityTypes.Message,
-                        Text = "What is your name?",
+                        Text = "What is your name please?",
                     },
                 };
                 return await stepContext.PromptAsync(NamePrompt, opts);
